@@ -1,2 +1,3 @@
 Este é um exemplo de texto que pode ser util para aprender
 Podemos dizer que estes testes servem para o aprendizado do aluno.
+Testes foram feitos para serem feitos.
